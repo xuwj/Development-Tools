@@ -68,6 +68,10 @@ Source Insight 实质上是一个支持多种开发语言（java,c ,c++等等）
 
 ![](http://7xj4l6.com1.z0.glb.clouddn.com/Source_Insight.jpg)
 
+  >mac端的可以使用`Understand`:高效代码静态分析神器
+  
+[Understand:高效代码静态分析神器详解](http://www.codemx.cn/2016/04/30/Understand01/)
+
 ##6. Sublime Text
   >程序员必备代码编辑器
 
